@@ -6,7 +6,9 @@
 * **Office Hourse:** Morse 245E, Mon 2-3pm, Wed 2-3pm
 * **Need help?**
    * Look through and create [issues](https://github.com/unh-hpc-2018/wiki/issues).
-   * [Email](mailto:kai.germaschewski@unh.edu) for 1-on-1 help, or to set up a time to meet.
+   * [Email](mailto:kai.germaschewski@unh.edu) for 1-on-1 help, or to
+     set up a time to meet.
+* **Github URL** for this class: https://github.com/unh-hpc-2018/class
 
 ## Course Summary
 
