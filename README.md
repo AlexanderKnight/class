@@ -1,14 +1,14 @@
 # Syllabus: Introduction to High-Performance Computing
 
-* **Course:** [IAM751/851](https://courses.unh.edu/class/201750/55043)
-* **Website:** The class notes etc. will go on the [Course Wiki Page](https://github.com/unh-hpc-2018/class/wiki)
+* **Course:** [IAM751/851](https://courses.unh.edu/class/201850/54331)
+* **Website:** The class notes etc. will go on the [Course Wiki Page](https://github.com/unh-hpc-2019/class/wiki)
 * **Instructor:** Kai Germaschewski, [kai.germaschewski@unh.edu](mailto:kai.germaschewski@unh.edu), Morse 245E
-* **Office Hourse:** Morse 245E, Mon 2-3pm, Wed 2-3pm
+* **Office Hourse:** Morse 245E, TBD
 * **Need help?**
-   * Look through and create [issues](https://github.com/unh-hpc-2018/wiki/issues).
+   * Look through and create [issues](https://github.com/unh-hpc-2019/class/issues).
    * [Email](mailto:kai.germaschewski@unh.edu) for 1-on-1 help, or to
      set up a time to meet.
-* **Github URL** for this class: https://github.com/unh-hpc-2018/class
+* **Github URL** for this class: https://github.com/unh-hpc-2019/class
 
 ## Course Summary
 
@@ -109,28 +109,48 @@ your interests, in coordination with the instructor.
 The final grade will be calculated as follows: Homework assignments
 and class participation 30%, presentation 10%, midterm project: 30%, final project: 30%
 
-## Student Accessibility Services
+## Accessibility Services
 
 According to the Americans with Disabilities Act (as amended, 2008),
-each student with a disability has the right to request services from
-UNH to accommodate his/her disability. If you are a student with a
-documented disability or believe you may have a disability that
-requires accommodations, please contact Student Accessibility Services
-(SAS) at 201 Smith Hall. Accommodation letters are created by SAS with
-the student. Please follow-up with your instructor as soon as possible
-to ensure timely implementation of the identified accommodations in
-the letter. Faculty have an obligation to respond once they receive
-official notice of accommodations from SAS, but are under no
-obligation to provide retroactive accommodations.  For more
-information refer to www.unh.edu/studentaccessibility or contact SAS
-at 603.862.2607, 711 (Relay NH) or sas.office@unh.edu.
-
+ each student with a disability has the right to request services from
+ UNH to accommodate his/her disability. If you are a student with a
+ documented disability or believe you may have a disability that
+ requires accommodations, please contact Student Accessibility
+ Services (SAS) at 201 Smith Hall. Accommodation letters are created
+ by SAS with the student. Please follow-up with your instructor as
+ soon as possible to ensure timely implementation of the identified
+ accommodations in the letter. Faculty have an obligation to respond
+ once they receive official notice of accommodations from SAS, but are
+ under no obligation to provide retroactive accommodations.
+ 
 ## Emotional or Mental Health Distress
 
-Your academic success in this course is very important to me. If,
-during the semester, you find emotional or mental health issues are
-affecting that success, please contact the University’s Counseling
-Center (3rd floor, Smith Hall; 603 862-2090/TTY: 7-1-1) which provides
-counseling appointments and other mental health services.
+Your academic success and overall mental health is very important.
+If, during the semester, you find you are experiencing emotional or
+mental health issues, please contact the [University’s Psychological
+and Counseling Services  (PACS)](https://www.unh.edu/pacs/) (3rd floor, Smith Hall;
+603-862-2090/TTY:  7-1-1) which provides counseling appointments and
+other mental health services.   If urgent, students may call PACS M-F,
+8 a.m.-5 p.m., and schedule an Urgent Same-Day Appointment.
 
+## Confidentiality and Mandatory Reporting
 
+   The University of New Hampshire and its faculty are committed to
+   assuring a safe and productive educational environment for all
+   students and for the university as a whole.   To this end, the
+   university requires faculty members to report to the university’s
+   Title IX Coordinator (Donna Marie Sorrentino, dms@unh.edu,
+   603-862-2930/1527 TTY) any incidents of sexual violence and
+   harassment shared by students. 
+   
+   If you wish to speak to a confidential support service provider who
+   does not have this reporting responsibility because their
+   discussions with clients are subject to legal privilege, you can
+   find a list of resources
+   here
+   [(privileged confidential service providers/resources)](https://www.unh.edu/affirmativeaction/offices-resources-support).
+   For more information about what happens when you report, how the
+   university considers your requests for confidentiality once a
+   report is made to the Title IX Coordinator, your rights and report
+   options at UNH (including anonymous report options) please
+   visit [(student reporting options)](https://www.unh.edu/affirmativeaction/reporting-students).
