@@ -33,3 +33,17 @@
     problem from happening, or at least have the compiler make you
     aware of it.
 	
+### (Assignment 4) (due 2/7/19)
+
+ * Submit your homework from Assignment 3 (the factorial part) via a
+   github pull request.
+   
+   Quick summary:
+   
+   * clone your class-3-your-team
+   * make a new branch
+   * do the work
+   * commit the work
+   * push (publish) the branch to github
+   * open a pull request on github
+   
