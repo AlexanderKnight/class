@@ -3,7 +3,7 @@
 * **Course:** [IAM751/851](https://courses.unh.edu/class/201850/54331)
 * **Website:** The class notes etc. will go on the [Course Wiki Page](https://github.com/unh-hpc-2019/class/wiki)
 * **Instructor:** Kai Germaschewski, [kai.germaschewski@unh.edu](mailto:kai.germaschewski@unh.edu), Morse 245E
-* **Office Hourse:** Morse 245E, TBD
+* **Office Hourse:** Morse 245E, Tue 10-11am, Wed 3-4pm
 * **Need help?**
    * Look through and create [issues](https://github.com/unh-hpc-2019/class/issues).
    * [Email](mailto:kai.germaschewski@unh.edu) for 1-on-1 help, or to
