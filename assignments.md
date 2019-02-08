@@ -47,3 +47,11 @@
    * push (publish) the branch to github
    * open a pull request on github
    
+ ### Assignment 5 (due 2/12/19)
+   
+  * Finish the in-class exercises ("Your turn" sections) from https://github.com/unh-hpc-2019/class/wiki/Class-6. Start from the github clasroom assignment (class-5-your-team), make the changes and commit as you, and push back to github, open a pull request. If you've already done the work in the class 3 repo, you can instead point me there.
+  
+     Read the part about header file dependencies, and correspondingly change your Makefile in your assignment. What happens if you edit `hello.h` and then `make` again. Is that expected? Why? (Put the answer to these questions as comments into your pull request)
+     
+  * Look at the [Topics](https://github.com/unh-hpc-2019/class/wiki/Topics) for this class and vote up or down topics you find particularly interesting or not-so-interesting. To do so, just edit the wiki page and add "+" or "-" to topics of your choice.
+   
