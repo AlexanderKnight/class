@@ -58,3 +58,7 @@
 ### Assignment 7 (due 2/14/19)
 
 * Finish the in-class exercises from https://github.com/unh-hpc-2019/class/wiki/Class-7. You can either start from the class-7 github classroom assignment, or from one of the previous assignments -- in the latter case, make sure you use a different branch name from previous homework. Create a PR (pull request), and request me as reviewer. Nothing needs to be done about the cmake part in the end.
+
+### Assignment 8 (due 2/19/19)
+
+* Finish the in-class exercises from https://github.com/unh-hpc-2019/class/wiki/Class-8, based on the github classroom assignment. Create a PR (pull request), and request me as reviewer. Please put the answers to the questions in the various "in-class exercises" into the PR as comments (copy&pasting, e.g, compiler output might be helpful).
