@@ -62,3 +62,8 @@
 ### Assignment 8 (due 2/19/19)
 
 * Finish the in-class exercises from https://github.com/unh-hpc-2019/class/wiki/Class-8, based on the github classroom assignment. Create a PR (pull request), and request me as reviewer. Please put the answers to the questions in the various "in-class exercises" into the PR as comments (copy&pasting, e.g, compiler output might be helpful).
+
+### Assignment 9 (due 2/21/19)
+
+* As usual, finish the in-class exercises from https://github.com/unh-hpc-2019/class/wiki/Class-9.
+
