@@ -67,3 +67,7 @@
 
 * As usual, finish the in-class exercises from https://github.com/unh-hpc-2019/class/wiki/Class-9.
 
+### Assignment 10 (due 2/26/19)
+
+* As usual, finish the in-class exercises from https://github.com/unh-hpc-2019/class/wiki/Class-10, and the Homework part I added at the bottom.
+
