@@ -75,3 +75,17 @@
 
 * Do the in-class exercises from https://github.com/unh-hpc-2019/class/wiki/Class-12.
 * If you have not yet done so, sign up for a presentation on the Presentations wiki page.
+
+### Assignment 13 (should have been due 3/7/19)
+
+I forgot to post this assigment, so please do it by next class (after
+spring break)
+
+* Do the in-class exercises from https://github.com/unh-hpc-2019/class/wiki/Class-13.
+* If you have not yet done so, sign up for a presentation on the Presentations wiki page.
+
+### Project 1
+
+* I posted [instructions](project1.pdf) for the midterm project. The tentative timeline is drafts due on 4/2 and the final submissions a week later.
+* Ideally, form teams of 2 for this project, though let me know if you have concerns or need help finding a team. There is a [github assignment](https://classroom.github.com/g/OreqIZKc) to sign up for.
+
