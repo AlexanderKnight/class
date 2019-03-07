@@ -89,3 +89,8 @@ spring break)
 * I posted [instructions](project1.pdf) for the midterm project. The tentative timeline is drafts due on 4/2 and the final submissions a week later.
 * Ideally, form teams of 2 for this project, though let me know if you have concerns or need help finding a team. There is a [github assignment](https://classroom.github.com/g/OreqIZKc) to sign up for.
 
+### No formal assignment over spring break
+
+* I do, however, recommend doing the scaling experiment from Class 14. We'll pick it up from after there next class.
+* Also, it would be a good idea to get organized on Project 1.
+
