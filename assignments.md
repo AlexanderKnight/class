@@ -94,3 +94,6 @@ spring break)
 * I do, however, recommend doing the scaling experiment from Class 14. We'll pick it up from after there next class.
 * Also, it would be a good idea to get organized on Project 1.
 
+### Assignment 16 (due 3/26/19)
+
+* Do the in-class exercises from https://github.com/unh-hpc-2019/class/wiki/Class-15, starting from "Race Conditions". Note the kinda inconsistent numbering between assignment (16) and class (15). Focus on going through the variations, figure out whether they work correctly, whether they're supposed to work correctly, and on performance. Perform at least one actual scaling study for a version that is correct and fast.
