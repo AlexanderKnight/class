@@ -97,3 +97,7 @@ spring break)
 ### Assignment 16 (due 3/26/19)
 
 * Do the in-class exercises from https://github.com/unh-hpc-2019/class/wiki/Class-15, starting from "Race Conditions". Note the kinda inconsistent numbering between assignment (16) and class (15). Focus on going through the variations, figure out whether they work correctly, whether they're supposed to work correctly, and on performance. Perform at least one actual scaling study for a version that is correct and fast.
+
+### Assignment 17 (due 4/2/19)
+
+Do the in-class exercises from https://github.com/unh-hpc-2019/class/wiki/Class-16, as usual with changes committed to your repo and a write-up as comments in the pull request.
