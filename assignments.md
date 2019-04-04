@@ -101,3 +101,7 @@ spring break)
 ### Assignment 17 (due 4/2/19)
 
 Do the in-class exercises from https://github.com/unh-hpc-2019/class/wiki/Class-16, as usual with changes committed to your repo and a write-up as comments in the pull request.
+
+### Assignment 20 (due 4/9/19)
+
+Finish the in-class exercises from https://github.com/unh-hpc-2019/class/wiki/Class-20, as usual with changes committed to your repo and a write-up as comments in the pull request.
