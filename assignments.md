@@ -105,3 +105,7 @@ Do the in-class exercises from https://github.com/unh-hpc-2019/class/wiki/Class-
 ### Assignment 20 (due 4/9/19)
 
 Finish the in-class exercises from https://github.com/unh-hpc-2019/class/wiki/Class-20, as usual with changes committed to your repo and a write-up as comments in the pull request.
+
+### Assignment 22 (due 4/16/19)
+
+Finish the in-class exercises from https://github.com/unh-hpc-2019/class/wiki/Class-22. Do the work in the assignment repo from Class 21. (And doing the work from class 22 will kinda require having done the ghost point exchange from class 21, too).
