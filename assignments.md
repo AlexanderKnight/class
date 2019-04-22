@@ -109,3 +109,10 @@ Finish the in-class exercises from https://github.com/unh-hpc-2019/class/wiki/Cl
 ### Assignment 22 (due 4/16/19)
 
 Finish the in-class exercises from https://github.com/unh-hpc-2019/class/wiki/Class-22. Do the work in the assignment repo from Class 21. (And doing the work from class 22 will kinda require having done the ghost point exchange from class 21, too).
+
+### Assignment 24 (due 4/23/19)
+
+* Following https://github.com/unh-hpc-2019/class/wiki/Class-24 finish MPI-parallelizing `test_integrate`. You can start with everything hardcoded, but eventually, the goal is to have it work with an arbitrary number of trapezoids and run on any number of procs -- though I'm okay with assuming (and making sure) that the number of trapezoids is divisible by the number of procs.
+* If you haven't done so, sign up for a trillian account
+* Put together a short (>= 2 paragraphs) proposal for your final project.
+
