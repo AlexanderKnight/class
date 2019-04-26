@@ -116,3 +116,11 @@ Finish the in-class exercises from https://github.com/unh-hpc-2019/class/wiki/Cl
 * If you haven't done so, sign up for a trillian account
 * Put together a short (>= 2 paragraphs) proposal for your final project.
 
+### Assignment 26 (due 4/30/19)
+
+* Make sure that you're all set logging in to trillian, are able to use git to get code from github and can compile and run it.
+* The final project proposals are overdue now, if you haven't done yours yet!
+* Do the in-class exercise from https://github.com/unh-hpc-2019/class/wiki/Class-25. Ideally, do it in the assignment repo from class 26 (sorry, yes, that's confusing). If you feel ambitious, you can do the assignment from class 26, too, but that's optional.
+
+
+
