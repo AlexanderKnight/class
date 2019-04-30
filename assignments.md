@@ -122,5 +122,7 @@ Finish the in-class exercises from https://github.com/unh-hpc-2019/class/wiki/Cl
 * The final project proposals are overdue now, if you haven't done yours yet!
 * Do the in-class exercise from https://github.com/unh-hpc-2019/class/wiki/Class-25. Ideally, do it in the assignment repo from class 26 (sorry, yes, that's confusing). If you feel ambitious, you can do the assignment from class 26, too, but that's optional.
 
+### Project 2
 
+* You can use this assignment for your project 2: https://classroom.github.com/g/V42R0Fm- (though if you want to just create a repo within your own github account, that's fine, too).
 
